@@ -9,6 +9,11 @@ Access the website [here](https://infrahub-forum.netlify.app/login)!
 ### Created using React / Vite, and Supabase
 ### Deployed via Netlify
 
+## Demo Walkthrough!
+
+<img src='infrahub/DemoGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 ## Required Features
 
 The following **required** functionality is completed:
