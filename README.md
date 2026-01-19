@@ -1,10 +1,18 @@
-# Web 102 Class Capstone Project - *Infrahub*
+# WEB 102 Class Capstone Project - *Infrahub*
 
-Submitted by: **Aadi Bery**
+Created by **Aadi Bery**
 
 This web app: **is an open forum for anyone curious or interested about construction, architecture, transportation, engineering, sustainability, etc. Users can register for an account and log in to access the forum dashboard and site features. Logged in users can create, edit, delete, and like posts, as well as comment on posts. They can also filter posts through search, popularity, and date. I learned a lot through this project so enjoy!**
 
-## Created using React / Vite, and Supabase
+Access the website [here](https://infrahub-forum.netlify.app/login)! 
+
+### Created using React / Vite, and Supabase
+### Deployed via Netlify
+
+## Demo Walkthrough!
+
+<img src='infrahub/DemoGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Required Features
 
